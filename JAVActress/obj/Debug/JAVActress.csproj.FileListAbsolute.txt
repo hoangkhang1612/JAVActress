@@ -1,0 +1,26 @@
+C:\Users\hoang.nguyen.S3CORP\source\repos\JAVActress\JAVActress\obj\Debug\JAVActress.csprojAssemblyReference.cache
+C:\Users\hoang.nguyen.S3CORP\source\repos\JAVActress\JAVActress\obj\Debug\JAVActress.Properties.Resources.resources
+C:\Users\hoang.nguyen.S3CORP\source\repos\JAVActress\JAVActress\obj\Debug\JAVActress.csproj.GenerateResource.cache
+C:\Users\hoang.nguyen.S3CORP\source\repos\JAVActress\JAVActress\obj\Debug\JAVActress.csproj.CoreCompileInputs.cache
+C:\Users\hoang.nguyen.S3CORP\source\repos\JAVActress\JAVActress\obj\Debug\JAVActress.frm.resources
+C:\Users\hoang.nguyen.S3CORP\source\repos\JAVActress\JAVActress\bin\Debug\JAVActress.exe.config
+C:\Users\hoang.nguyen.S3CORP\source\repos\JAVActress\JAVActress\bin\Debug\JAVActress.exe
+C:\Users\hoang.nguyen.S3CORP\source\repos\JAVActress\JAVActress\bin\Debug\JAVActress.pdb
+C:\Users\hoang.nguyen.S3CORP\source\repos\JAVActress\JAVActress\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hoang.nguyen.S3CORP\source\repos\JAVActress\JAVActress\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hoang.nguyen.S3CORP\source\repos\JAVActress\JAVActress\obj\Debug\JAVActress.csproj.CopyComplete
+C:\Users\hoang.nguyen.S3CORP\source\repos\JAVActress\JAVActress\obj\Debug\JAVActress.exe
+C:\Users\hoang.nguyen.S3CORP\source\repos\JAVActress\JAVActress\obj\Debug\JAVActress.pdb
+D:\Project\New folder\JAVActress\JAVActress\bin\Debug\JAVActress.exe.config
+D:\Project\New folder\JAVActress\JAVActress\bin\Debug\JAVActress.exe
+D:\Project\New folder\JAVActress\JAVActress\bin\Debug\JAVActress.pdb
+D:\Project\New folder\JAVActress\JAVActress\bin\Debug\Newtonsoft.Json.dll
+D:\Project\New folder\JAVActress\JAVActress\bin\Debug\Newtonsoft.Json.xml
+D:\Project\New folder\JAVActress\JAVActress\obj\Debug\JAVActress.csprojAssemblyReference.cache
+D:\Project\New folder\JAVActress\JAVActress\obj\Debug\JAVActress.frm.resources
+D:\Project\New folder\JAVActress\JAVActress\obj\Debug\JAVActress.Properties.Resources.resources
+D:\Project\New folder\JAVActress\JAVActress\obj\Debug\JAVActress.csproj.GenerateResource.cache
+D:\Project\New folder\JAVActress\JAVActress\obj\Debug\JAVActress.csproj.CoreCompileInputs.cache
+D:\Project\New folder\JAVActress\JAVActress\obj\Debug\JAVActress.csproj.CopyComplete
+D:\Project\New folder\JAVActress\JAVActress\obj\Debug\JAVActress.exe
+D:\Project\New folder\JAVActress\JAVActress\obj\Debug\JAVActress.pdb
